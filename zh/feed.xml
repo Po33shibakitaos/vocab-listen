@@ -4,7 +4,7 @@
     <title>単語聞き流し 中国語</title>
     <link>https://po33shibakitaos.github.io/vocab-listen/</link>
     <language>zh-cn</language>
-    <description>中国語の単語を級ごとに聞き流す自分用の番組（新HSK1級・新HSK2級）。級はシーズンで分かれています。</description>
+    <description>中国語の単語を級ごとに聞き流す自分用の番組（新HSK1級・新HSK2級・新HSK3級・新HSK4級）。級はシーズンで分かれています。</description>
     <itunes:author>単語聞き流し</itunes:author>
     <itunes:image href="https://po33shibakitaos.github.io/vocab-listen/zh/cover.png"/>
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -86,6 +86,116 @@
       <itunes:duration>1420</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK3級 第1回 単語1〜202</title>
+      <description>新HSK3級の単語 1-202 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h3-01.mp3" length="11690476" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h3-ep01</guid>
+      <pubDate>Fri, 27 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1461</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK3級 第2回 単語203〜404</title>
+      <description>新HSK3級の単語 203-404 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h3-02.mp3" length="11798574" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h3-ep02</guid>
+      <pubDate>Fri, 27 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1474</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK3級 第3回 単語405〜606</title>
+      <description>新HSK3級の単語 405-606 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h3-03.mp3" length="11901870" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h3-ep03</guid>
+      <pubDate>Fri, 27 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1487</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK3級 第4回 単語607〜808</title>
+      <description>新HSK3級の単語 607-808 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h3-04.mp3" length="11827566" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h3-ep04</guid>
+      <pubDate>Fri, 27 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1478</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK3級 第5回 単語809〜1008</title>
+      <description>新HSK3級の単語 809-1008 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h3-05.mp3" length="11552431" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h3-ep05</guid>
+      <pubDate>Fri, 27 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1443</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK4級 第1回 単語1〜201</title>
+      <description>新HSK4級の単語 1-201 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h4-01.mp3" length="11839084" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h4-ep01</guid>
+      <pubDate>Sat, 28 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1479</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK4級 第2回 単語202〜402</title>
+      <description>新HSK4級の単語 202-402 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h4-02.mp3" length="11685294" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h4-ep02</guid>
+      <pubDate>Sat, 28 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1460</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK4級 第3回 単語403〜603</title>
+      <description>新HSK4級の単語 403-603 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h4-03.mp3" length="11784174" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h4-ep03</guid>
+      <pubDate>Sat, 28 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1472</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK4級 第4回 単語604〜804</title>
+      <description>新HSK4級の単語 604-804 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h4-04.mp3" length="11830446" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h4-ep04</guid>
+      <pubDate>Sat, 28 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1478</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK4級 第5回 単語805〜1003</title>
+      <description>新HSK4級の単語 805-1003 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h4-05.mp3" length="11714863" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h4-ep05</guid>
+      <pubDate>Sat, 28 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1464</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

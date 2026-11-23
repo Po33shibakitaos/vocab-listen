@@ -4,13 +4,112 @@
     <title>単語聞き流し 韓国語</title>
     <link>https://po33shibakitaos.github.io/vocab-listen/</link>
     <language>ko</language>
-    <description>韓国語の単語を級ごとに聞き流す自分用の番組（ハン検準2級）。級はシーズンで分かれています。</description>
+    <description>韓国語の単語を級ごとに聞き流す自分用の番組（ハン検5級・ハン検4級・ハン検3級・ハン検準2級・ハン検2級）。級はシーズンで分かれています。</description>
     <itunes:author>単語聞き流し</itunes:author>
     <itunes:image href="https://po33shibakitaos.github.io/vocab-listen/ko/cover.png"/>
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>ハン検5級 第1回 単語1〜160</title>
+      <description>ハン検5級の単語 1-160 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k5-01.mp3" length="9134386" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k5-ep01</guid>
+      <pubDate>Wed, 25 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1141</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検5級 第2回 単語161〜320</title>
+      <description>ハン検5級の単語 161-320 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k5-02.mp3" length="9136308" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k5-ep02</guid>
+      <pubDate>Wed, 25 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1141</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検5級 第3回 単語321〜480</title>
+      <description>ハン検5級の単語 321-480 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k5-03.mp3" length="9420276" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k5-ep03</guid>
+      <pubDate>Wed, 25 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1177</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検4級 第1回 単語1〜197</title>
+      <description>ハン検4級の単語 1-197 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k4-01.mp3" length="11621362" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k4-ep01</guid>
+      <pubDate>Thu, 26 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1452</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検4級 第2回 単語198〜394</title>
+      <description>ハン検4級の単語 198-394 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k4-02.mp3" length="11559540" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k4-ep02</guid>
+      <pubDate>Thu, 26 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1444</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検4級 第3回 単語395〜590</title>
+      <description>ハン検4級の単語 395-590 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k4-03.mp3" length="11646132" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k4-ep03</guid>
+      <pubDate>Thu, 26 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1455</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検3級 第1回 単語1〜210</title>
+      <description>ハン検3級の単語 1-210 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k3-01.mp3" length="12769714" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k3-ep01</guid>
+      <pubDate>Fri, 27 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1596</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検3級 第2回 単語211〜420</title>
+      <description>ハン検3級の単語 211-420 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k3-02.mp3" length="13194996" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k3-ep02</guid>
+      <pubDate>Fri, 27 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1649</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検3級 第3回 単語421〜630</title>
+      <description>ハン検3級の単語 421-630 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k3-03.mp3" length="12458868" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k3-ep03</guid>
+      <pubDate>Fri, 27 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1557</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>ハン検準2級 第1回 単語1〜184</title>
       <description>ハン検準2級の単語 1-184 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
@@ -75,6 +174,138 @@
       <itunes:duration>1603</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第1回 単語1〜205</title>
+      <description>ハン検2級の単語 1-205 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-01.mp3" length="13404083" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep01</guid>
+      <pubDate>Sun, 29 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1675</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第2回 単語206〜410</title>
+      <description>ハン検2級の単語 206-410 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-02.mp3" length="13225909" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep02</guid>
+      <pubDate>Sun, 29 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1653</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第3回 単語411〜615</title>
+      <description>ハン検2級の単語 411-615 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-03.mp3" length="13203253" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep03</guid>
+      <pubDate>Sun, 29 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1650</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第4回 単語616〜820</title>
+      <description>ハン検2級の単語 616-820 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-04.mp3" length="12390517" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep04</guid>
+      <pubDate>Sun, 29 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1548</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第5回 単語821〜1025</title>
+      <description>ハン検2級の単語 821-1025 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-05.mp3" length="12292022" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep05</guid>
+      <pubDate>Sun, 29 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1536</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第6回 単語1026〜1230</title>
+      <description>ハン検2級の単語 1026-1230 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-06.mp3" length="12336183" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep06</guid>
+      <pubDate>Sun, 29 Nov 2026 06:06:00 +0900</pubDate>
+      <itunes:duration>1541</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第7回 単語1231〜1435</title>
+      <description>ハン検2級の単語 1231-1435 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-07.mp3" length="13298679" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep07</guid>
+      <pubDate>Sun, 29 Nov 2026 06:07:00 +0900</pubDate>
+      <itunes:duration>1662</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第8回 単語1436〜1640</title>
+      <description>ハン検2級の単語 1436-1640 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-08.mp3" length="15727479" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep08</guid>
+      <pubDate>Sun, 29 Nov 2026 06:08:00 +0900</pubDate>
+      <itunes:duration>1965</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第9回 単語1641〜1845</title>
+      <description>ハン検2級の単語 1641-1845 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-09.mp3" length="11950455" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep09</guid>
+      <pubDate>Sun, 29 Nov 2026 06:09:00 +0900</pubDate>
+      <itunes:duration>1493</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第10回 単語1846〜2050</title>
+      <description>ハン検2級の単語 1846-2050 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-10.mp3" length="13314041" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep10</guid>
+      <pubDate>Sun, 29 Nov 2026 06:10:00 +0900</pubDate>
+      <itunes:duration>1664</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第11回 単語2051〜2255</title>
+      <description>ハン検2級の単語 2051-2255 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-11.mp3" length="12244985" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep11</guid>
+      <pubDate>Sun, 29 Nov 2026 06:11:00 +0900</pubDate>
+      <itunes:duration>1530</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ハン検2級 第12回 単語2256〜2450</title>
+      <description>ハン検2級の単語 2256-2450 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/ko/k2-12.mp3" length="11999801" type="audio/mpeg"/>
+      <guid isPermaLink="false">ko-k2-ep12</guid>
+      <pubDate>Sun, 29 Nov 2026 06:12:00 +0900</pubDate>
+      <itunes:duration>1499</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
