@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>単語聞き流し 中国語</title>
+    <link>https://po33shibakitaos.github.io/vocab-listen/</link>
+    <language>zh-cn</language>
+    <description>中国語の単語を級ごとに聞き流す自分用の番組（新HSK1級・新HSK2級）。級はシーズンで分かれています。</description>
+    <itunes:author>単語聞き流し</itunes:author>
+    <itunes:image href="https://po33shibakitaos.github.io/vocab-listen/zh/cover.png"/>
+    <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>新HSK1級 第1回 単語1〜171</title>
+      <description>新HSK1級の単語 1-171 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h1-01.mp3" length="9718636" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h1-ep01</guid>
+      <pubDate>Wed, 25 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1214</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK1級 第2回 単語172〜342</title>
+      <description>新HSK1級の単語 172-342 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h1-02.mp3" length="9825774" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h1-ep02</guid>
+      <pubDate>Wed, 25 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1228</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK1級 第3回 単語343〜512</title>
+      <description>新HSK1級の単語 343-512 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h1-03.mp3" length="9771054" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h1-ep03</guid>
+      <pubDate>Wed, 25 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1221</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK2級 第1回 単語1〜198</title>
+      <description>新HSK2級の単語 1-198 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h2-01.mp3" length="11681644" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h2-ep01</guid>
+      <pubDate>Thu, 26 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1460</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK2級 第2回 単語199〜396</title>
+      <description>新HSK2級の単語 199-396 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h2-02.mp3" length="11476014" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h2-ep02</guid>
+      <pubDate>Thu, 26 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1434</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK2級 第3回 単語397〜594</title>
+      <description>新HSK2級の単語 397-594 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h2-03.mp3" length="11476206" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h2-ep03</guid>
+      <pubDate>Thu, 26 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1434</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新HSK2級 第4回 単語595〜790</title>
+      <description>新HSK2級の単語 595-790 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen/zh/h2-04.mp3" length="11364270" type="audio/mpeg"/>
+      <guid isPermaLink="false">zh-h2-ep04</guid>
+      <pubDate>Thu, 26 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1420</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
